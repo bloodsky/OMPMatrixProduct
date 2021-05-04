@@ -1,3 +1,2 @@
 OMP matrix product
-
-![alt text](https://github.com/bloodsky/OMPMatrixProduct/plot.png)
+![alt text](https://github.com/bloodsky/OMPMatrixProduct/blob/main/plot.png)
