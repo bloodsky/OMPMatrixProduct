@@ -1,6 +1,6 @@
 # OMP Matrix Product
 
-## Developed by: [Desantis Clara] [Pavia Roberto](https://github.com/bloodsky)
+## Developed by: [Desantis Clara](https://github.com/ClaraDeSantis) [Pavia Roberto](https://github.com/bloodsky)
 
 > Fast benchmark program showing how matrix product can scale up in terms of speeup. 
 > Speedup is just serial time normalized over parallel time. The program respects 
@@ -10,3 +10,4 @@
 > decided to create arrays with the same size of rows and columns for simplicity. 
 
 ![alt text](https://github.com/bloodsky/OMPMatrixProduct/blob/main/plot.png)
+![alt text](https://github.com/bloodsky/OMPMatrixProduct/blob/main/plot2.png)
