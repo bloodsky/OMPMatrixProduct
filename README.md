@@ -1,5 +1,7 @@
 # OMP Matrix Product
 
+## Developed by: [Desantis Clara] [Pavia Roberto](https://github.com/bloodsky)
+
 > Fast benchmark program showing how matrix product can scale up in terms of speeup. 
 > Speedup is just serial time normalized over parallel time. The program respects 
 > general rule that given two matrices A and B then the product matrix C has the
